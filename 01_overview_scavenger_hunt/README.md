@@ -1,4 +1,4 @@
-# Part 1: Overview of CFDE and Data Scavenger Hunt
+# Overview of CFDE and Data Scavenger Hunt
 
 Tuesday, June 2
 1:00 p.m. to 3:00 p.m.
